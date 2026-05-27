@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordarse",
+        "uuid": 12415170,
+        "checksum": "045wr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
